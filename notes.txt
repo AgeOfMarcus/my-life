@@ -1,0 +1,3 @@
+order of dev:
+1. get whatsapp working
+2. make plugin for matthews printer
